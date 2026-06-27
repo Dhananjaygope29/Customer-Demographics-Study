@@ -19,7 +19,7 @@
 | **Intern ID** | CITS2681 |
 | **Company** | CODTECH IT Solutions Pvt. Ltd |
 | **Domain** | Data Analytics |
-| **Task** | Sales Trend Visualization |
+| **Task** | Customer Demographics Study |
 | **Mentor** | Neela Santhosh Kumar |
 | **Duration** | 4 Weeks |
 
