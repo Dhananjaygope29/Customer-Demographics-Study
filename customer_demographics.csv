@@ -1,0 +1,101 @@
+Customer_ID,Age,Gender,City,State,Education,Occupation,Income_Level,Marital_Status,Children,Purchase_Category,Annual_Spend,Loyalty_Score,Membership_Type,Years_as_Customer
+C001,28,Male,Mumbai,Maharashtra,Graduate,IT Professional,High,Single,0,Electronics,85000,87,Gold,3
+C002,35,Female,Delhi,Delhi,Post Graduate,Teacher,Medium,Married,2,Clothing,42000,72,Silver,6
+C003,22,Male,Bangalore,Karnataka,Undergraduate,Student,Low,Single,0,Food & Grocery,18000,45,Basic,1
+C004,45,Female,Chennai,Tamil Nadu,Graduate,Doctor,High,Married,3,Healthcare,120000,95,Platinum,10
+C005,31,Male,Hyderabad,Telangana,Post Graduate,Engineer,High,Married,1,Electronics,76000,80,Gold,5
+C006,52,Female,Pune,Maharashtra,Graduate,Businesswoman,High,Married,2,Jewellery,145000,92,Platinum,14
+C007,27,Male,Kolkata,West Bengal,Undergraduate,Sales Executive,Low,Single,0,Food & Grocery,22000,50,Basic,2
+C008,40,Female,Ahmedabad,Gujarat,Graduate,Accountant,Medium,Married,2,Home Decor,55000,68,Silver,8
+C009,33,Male,Jaipur,Rajasthan,Graduate,Marketing Manager,Medium,Married,1,Clothing,48000,74,Silver,4
+C010,29,Female,Lucknow,Uttar Pradesh,Post Graduate,Software Developer,High,Single,0,Electronics,92000,88,Gold,3
+C011,48,Male,Surat,Gujarat,Graduate,Businessman,High,Married,3,Jewellery,160000,96,Platinum,12
+C012,25,Female,Nagpur,Maharashtra,Undergraduate,Student,Low,Single,0,Books & Stationery,15000,40,Basic,1
+C013,38,Male,Indore,Madhya Pradesh,Graduate,Banker,Medium,Married,2,Home Decor,60000,70,Silver,7
+C014,44,Female,Bhopal,Madhya Pradesh,Post Graduate,Professor,Medium,Married,2,Books & Stationery,35000,65,Silver,9
+C015,30,Male,Patna,Bihar,Graduate,Government Employee,Medium,Single,0,Clothing,32000,58,Basic,3
+C016,55,Female,Vadodara,Gujarat,Graduate,Retired,Medium,Married,3,Healthcare,72000,85,Gold,15
+C017,26,Male,Ludhiana,Punjab,Post Graduate,Data Analyst,High,Single,0,Electronics,88000,83,Gold,2
+C018,42,Female,Agra,Uttar Pradesh,Graduate,Homemaker,Low,Married,3,Food & Grocery,28000,55,Basic,10
+C019,34,Male,Nashik,Maharashtra,Graduate,Civil Engineer,Medium,Married,1,Home Decor,52000,69,Silver,5
+C020,60,Female,Faridabad,Haryana,Post Graduate,Retired Doctor,High,Married,2,Healthcare,135000,94,Platinum,18
+C021,23,Male,Meerut,Uttar Pradesh,Undergraduate,Student,Low,Single,0,Food & Grocery,16000,38,Basic,1
+C022,37,Female,Rajkot,Gujarat,Graduate,Interior Designer,Medium,Single,0,Home Decor,64000,77,Silver,6
+C023,49,Male,Varanasi,Uttar Pradesh,Graduate,Shopkeeper,Medium,Married,4,Food & Grocery,38000,60,Silver,11
+C024,32,Female,Srinagar,Jammu & Kashmir,Post Graduate,Nurse,Medium,Married,1,Healthcare,44000,66,Silver,4
+C025,41,Male,Aurangabad,Maharashtra,Graduate,Mechanical Engineer,Medium,Married,2,Electronics,58000,73,Silver,8
+C026,28,Female,Dhanbad,Jharkhand,Undergraduate,Receptionist,Low,Single,0,Clothing,24000,48,Basic,2
+C027,53,Male,Allahabad,Uttar Pradesh,Graduate,Lawyer,High,Married,2,Books & Stationery,55000,79,Gold,13
+C028,36,Female,Ranchi,Jharkhand,Graduate,HR Manager,Medium,Single,0,Clothing,46000,71,Silver,5
+C029,24,Male,Coimbatore,Tamil Nadu,Undergraduate,Freelancer,Low,Single,0,Electronics,30000,52,Basic,1
+C030,47,Female,Vizag,Andhra Pradesh,Post Graduate,Pharmacist,High,Married,3,Healthcare,98000,89,Gold,10
+C031,31,Male,Madurai,Tamil Nadu,Graduate,Graphic Designer,Medium,Single,0,Electronics,62000,76,Silver,4
+C032,58,Female,Jabalpur,Madhya Pradesh,Graduate,Retired Teacher,Low,Married,2,Food & Grocery,26000,53,Basic,16
+C033,29,Male,Gwalior,Madhya Pradesh,Post Graduate,Software Developer,High,Single,0,Electronics,80000,82,Gold,3
+C034,43,Female,Vijayawada,Andhra Pradesh,Graduate,Businesswoman,High,Married,2,Jewellery,130000,91,Platinum,9
+C035,26,Male,Jodhpur,Rajasthan,Undergraduate,Salesman,Low,Single,0,Clothing,20000,44,Basic,2
+C036,50,Female,Raipur,Chhattisgarh,Graduate,Principal,Medium,Married,3,Books & Stationery,42000,67,Silver,12
+C037,33,Male,Kota,Rajasthan,Graduate,Tutor,Medium,Single,0,Books & Stationery,28000,55,Basic,4
+C038,45,Female,Guwahati,Assam,Post Graduate,Scientist,High,Married,1,Healthcare,105000,90,Platinum,10
+C039,27,Male,Solapur,Maharashtra,Graduate,App Developer,High,Single,0,Electronics,75000,81,Gold,2
+C040,39,Female,Hubli,Karnataka,Graduate,Fashion Designer,Medium,Married,2,Clothing,68000,78,Silver,7
+C041,62,Male,Mysore,Karnataka,Post Graduate,Retired IAS,High,Married,3,Jewellery,175000,97,Platinum,20
+C042,24,Female,Tiruchirappalli,Tamil Nadu,Undergraduate,Student,Low,Single,0,Books & Stationery,12000,35,Basic,1
+C043,36,Male,Bareilly,Uttar Pradesh,Graduate,Police Officer,Medium,Married,2,Food & Grocery,34000,59,Basic,6
+C044,41,Female,Aligarh,Uttar Pradesh,Graduate,Doctor,High,Married,2,Healthcare,115000,93,Platinum,8
+C045,30,Male,Moradabad,Uttar Pradesh,Graduate,Bank Manager,Medium,Single,0,Electronics,56000,72,Silver,3
+C046,55,Female,Jalandhar,Punjab,Graduate,Homemaker,Low,Married,4,Food & Grocery,30000,54,Basic,14
+C047,28,Male,Bhubaneswar,Odisha,Post Graduate,IT Consultant,High,Single,0,Electronics,84000,84,Gold,3
+C048,46,Female,Noida,Uttar Pradesh,Post Graduate,Marketing Director,High,Married,2,Jewellery,150000,95,Platinum,11
+C049,32,Male,Gurugram,Haryana,Post Graduate,Product Manager,High,Married,1,Electronics,95000,86,Gold,5
+C050,38,Female,Chandigarh,Punjab,Graduate,Architect,High,Single,0,Home Decor,78000,83,Gold,6
+C051,25,Male,Trivandrum,Kerala,Undergraduate,Fresher,Low,Single,0,Clothing,18000,42,Basic,1
+C052,44,Female,Kochi,Kerala,Post Graduate,Gynaecologist,High,Married,2,Healthcare,140000,96,Platinum,9
+C053,29,Male,Mangalore,Karnataka,Graduate,Sales Manager,Medium,Married,1,Clothing,40000,63,Silver,4
+C054,51,Female,Puducherry,Puducherry,Graduate,Lecturer,Medium,Married,3,Books & Stationery,38000,64,Silver,12
+C055,35,Male,Shimla,Himachal Pradesh,Graduate,Tourism Manager,Medium,Single,0,Home Decor,50000,68,Silver,5
+C056,43,Female,Dehradun,Uttarakhand,Post Graduate,Dietitian,Medium,Married,2,Healthcare,62000,74,Silver,8
+C057,27,Male,Amritsar,Punjab,Undergraduate,Shop Owner,Low,Single,0,Food & Grocery,22000,47,Basic,2
+C058,56,Female,Udaipur,Rajasthan,Graduate,Jeweller,High,Married,3,Jewellery,165000,97,Platinum,15
+C059,31,Male,Ajmer,Rajasthan,Graduate,Pharmacist,Medium,Single,0,Healthcare,36000,60,Silver,3
+C060,48,Female,Jammu,Jammu & Kashmir,Graduate,Govt. Employee,Medium,Married,3,Food & Grocery,44000,66,Silver,11
+C061,26,Male,Siliguri,West Bengal,Undergraduate,Delivery Boy,Low,Single,0,Food & Grocery,15000,37,Basic,1
+C062,40,Female,Dhule,Maharashtra,Graduate,Nurse,Medium,Married,2,Healthcare,48000,68,Silver,7
+C063,34,Male,Kolhapur,Maharashtra,Graduate,Business Analyst,Medium,Single,0,Electronics,67000,77,Silver,4
+C064,59,Female,Bikaner,Rajasthan,Graduate,Retired,Low,Married,2,Food & Grocery,24000,51,Basic,17
+C065,23,Male,Firozabad,Uttar Pradesh,Undergraduate,Student,Low,Single,0,Books & Stationery,10000,33,Basic,1
+C066,37,Female,Guntur,Andhra Pradesh,Graduate,Dentist,High,Married,1,Healthcare,108000,91,Platinum,6
+C067,42,Male,Nellore,Andhra Pradesh,Graduate,Contractor,Medium,Married,3,Home Decor,55000,69,Silver,9
+C068,30,Female,Tirupati,Andhra Pradesh,Post Graduate,Software Engineer,High,Single,0,Electronics,86000,85,Gold,3
+C069,53,Male,Kakinada,Andhra Pradesh,Graduate,Mill Owner,High,Married,4,Jewellery,120000,90,Platinum,13
+C070,28,Female,Rajahmundry,Andhra Pradesh,Graduate,Teacher,Medium,Single,0,Books & Stationery,30000,57,Basic,2
+C071,45,Male,Eluru,Andhra Pradesh,Post Graduate,Chartered Accountant,High,Married,2,Jewellery,135000,93,Platinum,10
+C072,33,Female,Ongole,Andhra Pradesh,Graduate,Social Worker,Low,Married,2,Clothing,26000,49,Basic,5
+C073,26,Male,Tirunelveli,Tamil Nadu,Graduate,App Designer,Medium,Single,0,Electronics,52000,70,Silver,2
+C074,61,Female,Salem,Tamil Nadu,Graduate,Retired,Low,Married,3,Food & Grocery,22000,50,Basic,19
+C075,36,Male,Erode,Tamil Nadu,Post Graduate,Professor,Medium,Single,0,Books & Stationery,45000,66,Silver,5
+C076,29,Female,Vellore,Tamil Nadu,Undergraduate,Fresher,Low,Single,0,Clothing,20000,43,Basic,1
+C077,47,Male,Dharmapuri,Tamil Nadu,Graduate,Farmer turned Businessman,Medium,Married,4,Food & Grocery,40000,62,Silver,12
+C078,32,Female,Thanjavur,Tamil Nadu,Post Graduate,Journalist,Medium,Single,0,Books & Stationery,34000,60,Silver,4
+C079,41,Male,Karur,Tamil Nadu,Graduate,Textile Businessman,High,Married,3,Clothing,88000,85,Gold,8
+C080,55,Female,Pudukkottai,Tamil Nadu,Graduate,Homemaker,Low,Married,4,Food & Grocery,25000,52,Basic,15
+C081,27,Male,Thrissur,Kerala,Post Graduate,Data Scientist,High,Single,0,Electronics,90000,86,Gold,2
+C082,43,Female,Kozhikode,Kerala,Graduate,Dietitian,Medium,Married,2,Healthcare,54000,70,Silver,8
+C083,31,Male,Kollam,Kerala,Graduate,Marine Engineer,High,Married,1,Electronics,82000,83,Gold,4
+C084,50,Female,Kannur,Kerala,Post Graduate,College Principal,High,Married,3,Books & Stationery,60000,78,Gold,13
+C085,24,Male,Kasaragod,Kerala,Undergraduate,Student,Low,Single,0,Food & Grocery,14000,36,Basic,1
+C086,38,Female,Pathanamthitta,Kerala,Graduate,Physiotherapist,Medium,Married,1,Healthcare,58000,72,Silver,6
+C087,46,Male,Alappuzha,Kerala,Graduate,Fisheries Officer,Medium,Married,3,Food & Grocery,36000,61,Silver,10
+C088,29,Female,Idukki,Kerala,Graduate,Nurse,Medium,Single,0,Healthcare,38000,63,Silver,3
+C089,35,Male,Wayanad,Kerala,Graduate,Coffee Planter,High,Married,2,Food & Grocery,72000,80,Gold,5
+C090,52,Female,Palakkad,Kerala,Post Graduate,Retired Professor,Medium,Married,3,Books & Stationery,48000,69,Silver,14
+C091,30,Male,Bengaluru,Karnataka,Post Graduate,Startup Founder,High,Single,0,Electronics,105000,89,Gold,3
+C092,44,Female,Belagavi,Karnataka,Graduate,Lawyer,High,Married,2,Books & Stationery,65000,79,Gold,9
+C093,25,Male,Davanagere,Karnataka,Undergraduate,BPO Agent,Low,Single,0,Clothing,22000,46,Basic,1
+C094,57,Female,Ballari,Karnataka,Graduate,Business Owner,High,Married,3,Jewellery,142000,94,Platinum,14
+C095,33,Male,Shivamogga,Karnataka,Graduate,Civil Contractor,Medium,Married,1,Home Decor,57000,71,Silver,5
+C096,42,Female,Tumkur,Karnataka,Post Graduate,Gynaecologist,High,Married,2,Healthcare,118000,92,Platinum,9
+C097,27,Male,Udupi,Karnataka,Graduate,Chef,Medium,Single,0,Food & Grocery,28000,55,Basic,3
+C098,49,Female,Hassan,Karnataka,Graduate,Homemaker,Low,Married,4,Food & Grocery,28000,54,Basic,12
+C099,36,Male,Mandya,Karnataka,Post Graduate,Agricultural Scientist,Medium,Married,2,Food & Grocery,44000,64,Silver,7
+C100,61,Female,Chitradurga,Karnataka,Graduate,Retired Nurse,Low,Married,3,Healthcare,35000,62,Silver,18
